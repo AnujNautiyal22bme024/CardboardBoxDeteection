@@ -5,7 +5,7 @@ Instructions:
 
 Clone or download this repository.
 Place the image you want to process in the same directory as the script.
-Replace 'box.png' with the filename of your image.
+Replace 'box.jpeg' with the filename of your image.
 Run the script using a Python environment with OpenCV installed.
 Detected brown boxes will be highlighted with green rectangles in the displayed image.
 Please note that the provided script might need further adjustments to work optimally with your specific images and detection requirements.
